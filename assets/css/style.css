@@ -1,0 +1,15 @@
+body {
+    display: grid;
+    justify-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.div {
+    height: 200px;
+    width: 200px;
+}
+
+section {
+    display: flex;
+    align-items: center;
+}
